@@ -2,8 +2,7 @@
 !! WORK IN PROGRESS !!
 
 Unofficial utility tool for RefCOCO dataset.
-![refcoco](https://github.com/Prgckwb/refcoco/assets/55102558/fa1dbffb-3405-4448-bd47-68d6ff411009)
-
+![refcoco](https://github.com/Prgckwb/refcoco/assets/55102558/91adbf4a-207a-4a76-8e56-b10e7d2537bc)
 
 ## Environment setup
 ```bash
