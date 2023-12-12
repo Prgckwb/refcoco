@@ -1,0 +1,24 @@
+[project]
+name = "refcoco"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Prgckwb", email = "" }
+]
+dependencies = [
+    "torch>=2.1.1",
+    "pydantic>=2.5.2",
+]
+readme = "README.md"
+requires-python = ">= 3.11"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
